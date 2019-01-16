@@ -366,58 +366,6 @@ var cryptico = (function() {
 
 }());
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 exports.b256to64 = cryptico.b256to64;
 exports.b64to256 = cryptico.b64to256;
 exports.b16to64 = cryptico.b16to64;
